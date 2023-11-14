@@ -18,8 +18,6 @@ The Play Store apps data has enormous potential to drive app-making businesses t
 
 The Goal is to explore the data and pre-process it for future use in any predictive analytics study.
 
-![download](https://github.com/Ginga1402/Google_App_Store_Rating/assets/130181481/5d4bcacf-5f20-4e77-a8c1-69c00da3375d)
-
 ## Data Dictionary
 ![dd1](https://github.com/Ginga1402/Google_App_Store_Rating/assets/130181481/c8ae54cf-2f04-49a1-9bb2-14d5c9b1ec34)
 ![dd2](https://github.com/Ginga1402/Google_App_Store_Rating/assets/130181481/cdd7d629-38a3-443b-91d8-b4e487bf51e2)
